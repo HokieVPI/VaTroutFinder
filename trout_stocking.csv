@@ -1,0 +1,622 @@
+Date,County,Waterbody,Category,Species
+2026-03-18,Amherst County,Piney River (S. Fork & Proper),B,Brook Trout
+2026-03-18,Bath County,Douthat Lake (Only),+,"Rainbow Trout, Brook Trout"
+2026-03-18,Rockingham County,Dry River,B,Brook Trout
+2026-03-18,Grayson County,Big Wilson Creek,A,Rainbow Trout
+2026-03-18,Washington County,Whitetop Laurel (Upper),A,Rainbow Trout
+2026-03-18,Washington County,Tennessee Laurel,A,Rainbow Trout
+2026-03-18,Patrick County,Dan River (Below Powerhouse),A,"Rainbow Trout, Brown Trout"
+2026-03-17,Botetourt County,Jennings Creek,A,"Rainbow Trout, Brook Trout, Tiger Trout"
+2026-03-17,Botetourt County,North Creek,B,"Rainbow Trout, Brook Trout"
+2026-03-17,Botetourt County,Middle Creek,B,"Rainbow Trout, Brook Trout, Tiger Trout"
+2026-03-17,Botetourt County,McFalls Creek,C,"Rainbow Trout, Brook Trout, Tiger Trout"
+2026-03-17,Albemarle County,Scottsville Lake (Was Named: Mink Creek Reservoir),A,Rainbow Trout
+2026-03-17,Prince William County,Quantico MCB,B,"Rainbow Trout, Brown Trout"
+2026-03-17,Albemarle County,Sugar Hollow Reservoir,A,"Rainbow Trout, Brook Trout"
+2026-03-17,Page County,Hawksbill Creek,A,"Rainbow Trout, Brook Trout"
+2026-03-17,Page County,Cub Run,B,Brook Trout
+2026-03-17,Bath County,Bullpasture River,A,"Rainbow Trout, Tiger Trout"
+2026-03-17,Highland County,Bullpasture River,A,"Rainbow Trout, Tiger Trout"
+2026-03-17,Floyd County,Little Indian Creek,B,Rainbow Trout
+2026-03-17,Patrick County,South Mayo River (North Fork),C,Rainbow Trout
+2026-03-17,Patrick County,South Mayo River (South Fork),C,Rainbow Trout
+2026-03-17,Patrick County,Poorhouse Creek,C,Brook Trout
+2026-03-16,Alleghany County,Pounding Mill Creek,B,Brook Trout
+2026-03-16,Alleghany County,Smith Creek,C,Brook Trout
+2026-03-16,Alleghany County,Clifton Forge Reservoir,A,Brook Trout
+2026-03-16,Prince William County,Locust Shade Park,U,"Rainbow Trout, Brown Trout"
+2026-03-16,Rockingham County,North Fork Shenandoah River,B,"Rainbow Trout, Brown Trout"
+2026-03-16,Augusta County,Upper Sherando Lake,B,Rainbow Trout
+2026-03-16,Augusta County,Back Creek,B,Rainbow Trout
+2026-03-16,Russell County,Big Cedar Creek,A,Brown Trout
+2026-03-16,Scott County,Bark Camp Lake,A,Brown Trout
+2026-03-14,Grayson County,Fox Creek,B,Rainbow Trout
+2026-03-14,Grayson County,Middle Fox Creek,B,Rainbow Trout
+2026-03-13,Craig County,Potts Creek,A,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-03-13,Rockbridge County,South River,B,"Rainbow Trout, Tiger Trout"
+2026-03-13,Rockingham County,German River,C,Brook Trout
+2026-03-13,Shenandoah County,Tomahawk Pond,B,"Rainbow Trout, Brook Trout"
+2026-03-13,Smyth County,Middle Fork Holston River (Chilhowie),A,Rainbow Trout
+2026-03-13,Smyth County,Middle Fork Holston River (Marion),A,Rainbow Trout
+2026-03-13,Scott County,Big Stony Creek,B,Rainbow Trout
+2026-03-13,Scott County,Little Stony Creek,B,Brown Trout
+2026-03-13,Bland County,Lick Creek,B,Rainbow Trout
+2026-03-13,Tazewell County,Laurel Creek,C,Rainbow Trout
+2026-03-13,Pulaski County,Peak Creek-Below Gatewood Reservoir,B,Rainbow Trout
+2026-03-12,Roanoke County,Roanoke River (Salem),A,"Rainbow Trout, Brook Trout"
+2026-03-12,Bath County,Cowpasture River,A,"Rainbow Trout, Brown Trout, Brook Trout"
+2026-03-12,Shenandoah County,Passage Creek,A,"Rainbow Trout, Brown Trout, Brook Trout"
+2026-03-12,Warren County,Passage Creek,DH,"Brown Trout, Brook Trout"
+2026-03-12,Buchanan County,Dismal River,A,Rainbow Trout
+2026-03-12,Nelson County,South Rockfish River,C,Brook Trout
+2026-03-12,Bath County,Spring Run,CR,Brook Trout
+2026-03-12,Giles County,Dismal Creek,B,Brook Trout
+2026-03-11,Henry County,Smith River (Dam),B,Rainbow Trout
+2026-03-11,Henry County,Smith River (Lower),A,Rainbow Trout
+2026-03-11,Amherst County,Pedlar River (Below Dam),DH,"Rainbow Trout, Brown Trout"
+2026-03-11,Highland County,South Branch Potomac River,B,"Rainbow Trout, Brook Trout"
+2026-03-11,Rockingham County,Slate Lick Lake (Double stocking),B,Brook Trout
+2026-03-11,Rockingham County,Slate Lick Run,B,Brook Trout
+2026-03-11,Wythe County,Gullion Fork Ponds,B,Rainbow Trout
+2026-03-11,Wythe County,Stoney Creek,C,Rainbow Trout
+2026-03-11,Wythe County,West Fork Reed Creek,C,Rainbow Trout
+2026-03-11,Wise County,Middle Fork Powell River (Appalachia),A,Rainbow Trout
+2026-03-11,Wise County,South Fork Powell River,A,Rainbow Trout
+2026-03-11,Buchanan County,Russell Fork River,C,Rainbow Trout
+2026-03-11,Dickenson County,Frying Pan Creek,C,Rainbow Trout
+2026-03-10,Augusta County,Braley Pond,A,"Rainbow Trout, Brown Trout"
+2026-03-10,Frederick County,Winchester Lake (Wilkins Lake),A,"Rainbow Trout, Brown Trout"
+2026-03-10,Frederick County,Clearbrook Lake,A,"Rainbow Trout, Brown Trout"
+2026-03-10,Frederick County,Hogue Creek,B,"Rainbow Trout, Brown Trout"
+2026-03-10,Wythe County,Cripple Creek (Ravens),A,Rainbow Trout
+2026-03-10,Grayson County,Helton Creek,B,Rainbow Trout
+2026-03-10,Lee County,North Fork Powell River,A,Rainbow Trout
+2026-03-10,Smyth County,Staley Creek,A,Rainbow Trout
+2026-03-10,Smyth County,Middle Fork Holston River (Upper),B,Rainbow Trout
+2026-03-09,Giles County,Big Stoney Creek,A,Rainbow Trout
+2026-03-09,Patrick County,Poorhouse Creek,C,Brook Trout
+2026-03-09,Nelson County,Tye River,A,"Rainbow Trout, Brown Trout, Brook Trout"
+2026-03-09,Dickenson County,Russell Fork River (Bartlick),A,Rainbow Trout
+2026-03-09,Dickenson County,Russell Fork River (Bartlick),A,Rainbow Trout
+2026-03-09,Dickenson County,Pound River (Flannagan Dam),A,Rainbow Trout
+2026-03-09,Alleghany County,Wilson Creek (Lower),C,Rainbow Trout
+2026-03-09,Bath County,Wilson Creek (Only),+,"Rainbow Trout, Brown Trout"
+2026-03-09,City of Staunton,Lake Tams,B,Rainbow Trout
+2026-03-07,Patrick County,Dan River (Below Powerhouse),A,Rainbow Trout
+2026-03-07,Bath County,Douthat Lake (Only),+,Rainbow Trout
+2026-03-06,Botetourt County,Roaring Run,B,"Rainbow Trout, Brown Trout"
+2026-03-06,Alleghany County,Clifton Forge Reservoir,A,"Rainbow Trout, Brown Trout"
+2026-03-06,Floyd County,Burkes Fork,A,Rainbow Trout
+2026-03-06,Floyd County,Little River,A,Rainbow Trout
+2026-03-06,Tazewell County,Lake Witten,A,Rainbow Trout
+2026-03-06,Albemarle County,Moormans River (S. Fork),B,Brook Trout
+2026-03-06,Rockbridge County,Irish Creek,B,"Rainbow Trout, Brook Trout"
+2026-03-06,Augusta County,Hearthstone Lake,A,Brook Trout
+2026-03-06,Warren County,Happy Creek,B,"Rainbow Trout, Brook Trout"
+2026-03-06,Smyth County,South Fork Holston River (Buller Dam),A,Rainbow Trout
+2026-03-06,Washington County,Big Tumbling Creek,A,Rainbow Trout
+2026-03-06,Washington County,Big Brumley Creek,B,Rainbow Trout
+2026-03-06,Grayson County,Big Wilson Creek,A,Rainbow Trout
+2026-03-05,Montgomery County,Pandapas Pond,A,Rainbow Trout
+2026-03-05,Montgomery County,Poverty Creek,C,Rainbow Trout
+2026-03-05,Greene County,South River,B,"Rainbow Trout, Brook Trout"
+2026-03-05,Greene County,Swift Run,B,"Rainbow Trout, Brook Trout"
+2026-03-05,Wythe County,Rural Retreat Lake Pond,A,Rainbow Trout
+2026-03-05,Wythe County,Wytheville Community College Pond,B,Rainbow Trout
+2026-03-05,Bath County,Back Creek,A,"Rainbow Trout, Brown Trout"
+2026-03-05,Shenandoah County,Stony Creek,A,"Rainbow Trout, Brown Trout"
+2026-03-05,Russell County,Big Cedar Creek,A,Rainbow Trout
+2026-03-05,Wise County,Clear Creek,C,Rainbow Trout
+2026-03-05,City of Norton,Norton Reservoir (Upper),B,Rainbow Trout
+2026-03-04,Frederick County,Paddy Run,B,Rainbow Trout
+2026-03-04,Augusta County,Falls Hollow,C,Brook Trout
+2026-03-04,Augusta County,Mills Creek,C,Brook Trout
+2026-03-04,Bath County,Jackson River (Hidden Valley),A,"Rainbow Trout, Brook Trout"
+2026-03-04,Botetourt County,Middle Creek,B,"Rainbow Trout, Brook Trout"
+2026-03-04,Botetourt County,Jennings Creek,A,"Rainbow Trout, Brown Trout, Brook Trout"
+2026-03-04,City of Richmond,Shields Lake,U,"Rainbow Trout, Brown Trout"
+2026-03-04,Henrico County,Dorey Park Lake,U,"Rainbow Trout, Brown Trout"
+2026-03-04,Madison County,Rose River,A,"Rainbow Trout, Brook Trout"
+2026-03-04,Madison County,Robinson River,A,"Rainbow Trout, Brook Trout"
+2026-03-04,Madison County,Hughes River,A,"Rainbow Trout, Brook Trout"
+2026-03-04,Albemarle County,Scottsville Lake (Was Named: Mink Creek Reservoir),A,Rainbow Trout
+2026-03-04,Albemarle County,Sugar Hollow Reservoir,A,"Rainbow Trout, Brook Trout"
+2026-03-04,Carroll County,Crooked Creek,A,Rainbow Trout
+2026-03-04,Carroll County,Little Reed Island Creek,A,Rainbow Trout
+2026-03-04,Bland County,Wolf Creek,A,Rainbow Trout
+2026-03-04,Giles County,Wolf Creek,A,Rainbow Trout
+2026-03-04,Lee County,Martins Creek,A,Rainbow Trout
+2026-03-04,Lee County,Indian Creek,DH,Rainbow Trout
+2026-03-04,Lee County,Hardy Creek,DH,Rainbow Trout
+2026-03-04,Tazewell County,Little Tumbling Creek,B,Rainbow Trout
+2026-03-04,Tazewell County,Lincolnshire Lake,A,Rainbow Trout
+2026-03-03,Augusta County,Upper Sherando Lake,B,Rainbow Trout
+2026-03-03,Augusta County,Lower Sherando Lake,A,Rainbow Trout
+2026-03-03,Bath County,Jackson River (Rt. 623),A,"Rainbow Trout, Tiger Trout"
+2026-03-03,Franklin County,Pigg River,A,"Rainbow Trout, Brook Trout"
+2026-03-03,Franklin County,Runnett Bag Creek,B,"Rainbow Trout, Brown Trout, Brook Trout, Tiger Trout"
+2026-03-03,Scott County,Big Moccasin Creek,DH,Rainbow Trout
+2026-03-03,Scott County,Stock Creek,B,Rainbow Trout
+2026-03-03,Wise County,Middle Fork of Powell River,DH,Rainbow Trout
+2026-03-03,Smyth County,South Fork Holston River (Lower),A,Rainbow Trout
+2026-03-03,Carroll County,Chestnut Creek,DH,Rainbow Trout
+2026-03-03,Pulaski County,Peak Creek-Town of Pulaski,B,Rainbow Trout
+2026-03-02,Bath County,Pads Creek,B,Rainbow Trout
+2026-03-02,Augusta County,Elkhorn Lake,A,Rainbow Trout
+2026-03-02,Rockingham County,Briery Branch Lake,A,Rainbow Trout
+2026-03-02,Rockingham County,Hone Quarry Lake,A,Rainbow Trout
+2026-03-02,Rockingham County,Hone Quarry Run,C,Brook Trout
+2026-03-02,Fairfax County,Accotink Creek,DH,"Rainbow Trout, Brown Trout"
+2026-03-02,Fairfax County,Holmes Run,DH,"Rainbow Trout, Brown Trout"
+2026-03-02,Roanoke County,Tinker Creek,A,"Rainbow Trout, Brook Trout"
+2026-03-02,Roanoke County,Glade Creek,A,"Rainbow Trout, Brook Trout"
+2026-03-02,Wise County,Pound River / N. Fork Pound River,DH,Rainbow Trout
+2026-03-02,Dickenson County,Cranesnest River,B,Rainbow Trout
+2026-03-02,Washington County,Whitetop Laurel (Upper),A,Rainbow Trout
+2026-03-02,Washington County,Tennessee Laurel,A,Rainbow Trout
+2026-03-02,Washington County,Valley Creek,C,Rainbow Trout
+2026-03-02,Wythe County,Cripple Creek (Rt. 94),A,Rainbow Trout
+2026-03-02,Grayson County,Elk Creek,A,Rainbow Trout
+2026-03-02,Grayson County,Hales Lake,A,Rainbow Trout
+2026-02-28,Floyd County,Little Indian Creek,B,"Rainbow Trout, Brook Trout"
+2026-02-27,Bath County,Douthat Lake (Only),+,Rainbow Trout
+2026-02-27,Bath County,Back Creek,DH,Rainbow Trout
+2026-02-27,Bath County,Spring Run,CR,Rainbow Trout
+2026-02-27,Bath County,Bullpasture River,A,"Rainbow Trout, Tiger Trout"
+2026-02-27,Highland County,Bullpasture River,A,"Rainbow Trout, Tiger Trout"
+2026-02-27,Amherst County,Piney River (S. Fork & Proper),B,Brook Trout
+2026-02-27,Giles County,Dismal Creek,B,Brook Trout
+2026-02-27,Floyd County,Mira Fork,C,Brook Trout
+2026-02-27,Floyd County,Rush Fork,C,Brook Trout
+2026-02-27,Floyd County,West Fork Little River,B,Rainbow Trout
+2026-02-27,Tazewell County,Lincolnshire Lake,A,Rainbow Trout
+2026-02-26,Page County,Cub Run,B,Brook Trout
+2026-02-26,Page County,Hawksbill Creek,A,"Rainbow Trout, Brook Trout"
+2026-02-26,Rockingham County,Slate Lick Run,B,Brook Trout
+2026-02-26,Rockingham County,German River,C,Brook Trout
+2026-02-26,Bath County,Wilson Creek (Only),+,Rainbow Trout
+2026-02-26,Alleghany County,Clifton Forge Reservoir,A,Brook Trout
+2026-02-26,Alleghany County,Pounding Mill Creek,B,Brook Trout
+2026-02-26,Alleghany County,Smith Creek,C,Brook Trout
+2026-02-26,Albemarle County,Moormans River (S. Fork),B,Brook Trout
+2026-02-26,Patrick County,Dan River (Above Talbott),B,Brook Trout
+2026-02-26,Patrick County,Round Meadow Creek,C,Brook Trout
+2026-02-25,Augusta County,North River (Gorge),B,"Rainbow Trout, Brook Trout"
+2026-02-25,Augusta County,Hearthstone Lake,A,Brook Trout
+2026-02-25,Warren County,Happy Creek,B,Rainbow Trout
+2026-02-25,Shenandoah County,Mill Creek,B,Rainbow Trout
+2026-02-25,Botetourt County,Jennings Creek,A,"Rainbow Trout, Brown Trout, Brook Trout, Tiger Trout"
+2026-02-25,Botetourt County,North Creek,B,"Rainbow Trout, Brook Trout"
+2026-02-25,Botetourt County,Middle Creek,B,"Rainbow Trout, Brook Trout, Tiger Trout"
+2026-02-25,Botetourt County,McFalls Creek,C,"Rainbow Trout, Brook Trout, Tiger Trout"
+2026-02-25,Nelson County,South Rockfish River,C,Brook Trout
+2026-02-24,Bath County,Back Creek,A,"Brook Trout, Tiger Trout"
+2026-02-24,Rockingham County,Briery Branch Lake,A,Rainbow Trout
+2026-02-24,Rockingham County,Hone Quarry Lake,A,Rainbow Trout
+2026-02-24,Rockingham County,Hone Quarry Run,C,Brook Trout
+2026-02-24,Frederick County,Hogue Creek,B,Rainbow Trout
+2026-02-24,Frederick County,Clearbrook Lake,A,Rainbow Trout
+2026-02-24,Frederick County,Winchester Lake (Wilkins Lake),A,Rainbow Trout
+2026-02-24,Madison County,Robinson River,A,"Rainbow Trout, Brook Trout"
+2026-02-24,Smyth County,Middle Fork Holston River (Chilhowie),A,Rainbow Trout
+2026-02-24,Smyth County,Middle Fork Holston River (Marion),A,Rainbow Trout
+2026-02-24,Smyth County,Staley Creek,A,Rainbow Trout
+2026-02-23,Rockingham County,North Fork Shenandoah River,B,"Rainbow Trout, Brown Trout"
+2026-02-23,Augusta County,Braley Pond,A,Rainbow Trout
+2026-02-23,Bath County,Pads Creek,B,Rainbow Trout
+2026-02-23,Bath County,Cowpasture River,A,Rainbow Trout
+2026-02-21,Tazewell County,Lake Witten,A,Rainbow Trout
+2026-02-20,Augusta County,North River (Upper),B,Brook Trout
+2026-02-20,Augusta County,South River (Ridgeview Park),A,"Brown Trout, Brook Trout"
+2026-02-20,Rockingham County,South River (Grottoes),A,"Brown Trout, Brook Trout"
+2026-02-20,City of Lynchburg,Ivy Creek Park Pond (Clemmons Lake),U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-02-20,City of Fredericksburg,Old Cossey Pond,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-02-20,City of Alexandria,Cook Lake,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-02-20,Amherst County,Rocky Row Run,C,Rainbow Trout
+2026-02-20,Botetourt County,Roaring Run,B,"Rainbow Trout, Brook Trout"
+2026-02-20,Bedford County,Liberty Lake,A,"Rainbow Trout, Brook Trout"
+2026-02-20,Smyth County,South Fork Holston River (Buller Dam),A,Rainbow Trout
+2026-02-20,Scott County,Bark Camp Lake,A,Rainbow Trout
+2026-02-20,Scott County,Stock Creek,B,Rainbow Trout
+2026-02-20,Carroll County,Crooked Creek,A,Rainbow Trout
+2026-02-20,Grayson County,Elk Creek,A,Rainbow Trout
+2026-02-20,Wythe County,Rural Retreat Lake Pond,A,Rainbow Trout
+2026-02-20,Wythe County,Wytheville Community College Pond,B,Rainbow Trout
+2026-02-19,Carroll County,Stewarts Creek,B,Brook Trout
+2026-02-19,Rockingham County,Dry River,B,Brook Trout
+2026-02-19,City of Staunton,Lake Tams,B,Brook Trout
+2026-02-19,Rockbridge County,South River,B,"Brown Trout, Brook Trout"
+2026-02-19,Montgomery County,Poverty Creek,C,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-02-19,Montgomery County,Toms Creek,B,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-02-19,City of Richmond,Shields Lake,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-02-19,Henrico County,Dorey Park Lake,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-02-19,Amherst County,Piney River,DH,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-02-19,Greene County,South River,B,"Rainbow Trout, Brook Trout"
+2026-02-19,Greene County,Swift Run,B,"Rainbow Trout, Brook Trout"
+2026-02-19,Albemarle County,Mint Springs Lake (Upper),A,"Rainbow Trout, Brown Trout, Brook Trout, Tiger Trout"
+2026-02-19,Wise County,Bear Creek Reservoir (Wise Res.),B,Rainbow Trout
+2026-02-19,City of Norton,Norton Reservoir (Upper),B,Rainbow Trout
+2026-02-19,Floyd County,Goose Creek,B,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-02-18,Patrick County,Dan River (Below Powerhouse),A,Rainbow Trout
+2026-02-18,Rockbridge County,Maury River,A,"Brown Trout, Brook Trout"
+2026-02-18,Rockbridge County,Mill Creek,A,"Brown Trout, Brook Trout"
+2026-02-18,Augusta County,Lower Sherando Lake,A,Brook Trout
+2026-02-18,Rockingham County,Slate Lick Run,B,Brook Trout
+2026-02-18,Shenandoah County,Tomahawk Pond,B,Brook Trout
+2026-02-18,Henry County,Smith River (Dam),B,Rainbow Trout
+2026-02-18,Henry County,Smith River (Lower),A,Rainbow Trout
+2026-02-18,City of Hampton,Armistead Pointe Park Pond,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-02-18,Scott County,Big Stony Creek,B,Rainbow Trout
+2026-02-18,Scott County,Little Stony Creek,B,Rainbow Trout
+2026-02-17,Wythe County,Cripple Creek (Rt. 94),A,Rainbow Trout
+2026-02-17,Carroll County,Little Reed Island Creek,A,Rainbow Trout
+2026-02-17,Albemarle County,Scottsville Lake (Was Named: Mink Creek Reservoir),A,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-02-17,Albemarle County,Sugar Hollow Reservoir,A,"Rainbow Trout, Brook Trout"
+2026-02-17,Augusta County,Falls Hollow,C,Brook Trout
+2026-02-17,Augusta County,Mills Creek,C,Brook Trout
+2026-02-17,Augusta County,North River (Natural Chimneys),B,Brook Trout
+2026-02-17,Rockingham County,Silver Lake,B,Brook Trout
+2026-02-17,Craig County,Barbours Creek,B,Brook Trout
+2026-02-17,Dickenson County,Pound River (Flannagan Dam),A,Rainbow Trout
+2026-02-17,Dickenson County,Russell Fork River (Bartlick),A,Rainbow Trout
+2026-02-13,Roanoke County,Roanoke River (Green Hill Park),DH,"Rainbow Trout, Brook Trout"
+2026-02-13,Roanoke County,Roanoke River (Salem),DH,"Rainbow Trout, Brook Trout"
+2026-02-12,Statewide,No Stockings Today,,
+2026-02-11,Appomattox County,Holliday Creek,DH,"Rainbow Trout, Brown Trout"
+2026-02-11,Russell County,Big Cedar Creek,A,Rainbow Trout
+2026-02-10,Roanoke County,Roanoke River (City),A,"Rainbow Trout, Brook Trout"
+2026-02-10,Washington County,Big Tumbling Creek,A,Rainbow Trout
+2026-02-10,Washington County,Big Brumley Creek,B,Rainbow Trout
+2026-02-09,Nelson County,Tye River,A,"Rainbow Trout, Brook Trout, Tiger Trout"
+2026-02-06,Roanoke County,Tinker Creek,A,"Rainbow Trout, Brook Trout"
+2026-02-05,Statewide,No Stockings Today,,
+2026-02-04,Statewide,No Stockings Today,,
+2026-02-03,Statewide,No Stockings Today,,
+2026-02-02,Statewide,No Stockings Today,,
+2026-01-30,Statewide,No Stockings Today,,
+2026-01-29,Statewide,No Stockings Today,,
+2026-01-28,Statewide,No Stockings Today,,
+2026-01-27,Statewide,No Stockings Today,,
+2026-01-26,Statewide,No Stockings Today,,
+2026-01-23,Augusta County,North River (Tail),DH,Brook Trout
+2026-01-23,Rockbridge County,Maury River,A,"Rainbow Trout, Brook Trout"
+2026-01-23,Rockbridge County,Mill Creek,A,"Rainbow Trout, Brook Trout"
+2026-01-23,Roanoke County,Roanoke River (Salem),A,"Rainbow Trout, Brook Trout"
+2026-01-23,Amherst County,Pedlar River (Lower),A,"Rainbow Trout, Brown Trout, Brook Trout, Tiger Trout"
+2026-01-22,Augusta County,North River (Gorge),B,"Rainbow Trout, Brown Trout"
+2026-01-22,Bath County,Jackson River (Rt. 623),A,"Rainbow Trout, Brown Trout"
+2026-01-22,City of Lynchburg,Ivy Creek Park Pond (Clemmons Lake),U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-01-22,Dickenson County,Russell Fork River (Bartlick),A,Rainbow Trout
+2026-01-22,Dickenson County,Cranesnest River,B,Rainbow Trout
+2026-01-22,Dickenson County,Russell Fork River (Haysi),B,Rainbow Trout
+2026-01-22,Dickenson County,Pound River (Flannagan Dam),A,Rainbow Trout
+2026-01-21,Augusta County,South River (Catch and Release section),CR,Brown Trout
+2026-01-21,Rockbridge County,South River,B,"Rainbow Trout, Brown Trout"
+2026-01-21,Wise County,Middle Fork Powell River (Appalachia),A,Rainbow Trout
+2026-01-21,Wise County,South Fork Powell River,A,Rainbow Trout
+2026-01-20,Bath County,Back Creek,A,Brown Trout
+2026-01-20,City of Fredericksburg,Old Cossey Pond,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-01-20,City of Alexandria,Cook Lake,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-01-20,Madison County,Rose River,A,"Rainbow Trout, Brook Trout, Tiger Trout"
+2026-01-20,Madison County,Robinson River,A,"Rainbow Trout, Brook Trout, Tiger Trout"
+2026-01-20,Henry County,Smith River (Dam),B,Rainbow Trout
+2026-01-16,Bath County,Bullpasture River,A,"Rainbow Trout, Brown Trout"
+2026-01-16,Highland County,Bullpasture River,A,"Rainbow Trout, Brown Trout"
+2026-01-16,Amherst County,Pedlar River (Upper),B,"Rainbow Trout, Brown Trout, Brook Trout, Tiger Trout"
+2026-01-16,Amherst County,Davis Mill Creek,C,Brook Trout
+2026-01-15,Grayson County,Big Wilson Creek,A,Rainbow Trout
+2026-01-15,Rockingham County,North Fork Shenandoah River,B,"Rainbow Trout, Brown Trout"
+2026-01-15,Madison County,Hughes River,A,"Rainbow Trout, Brook Trout"
+2026-01-14,City of Hampton,Armistead Pointe Park Pond,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-01-14,Franklin County,Pigg River,A,Rainbow Trout
+2026-01-14,Franklin County,Runnett Bag Creek,B,Rainbow Trout
+2026-01-14,Augusta County,Lower Sherando Lake,A,Rainbow Trout
+2026-01-14,Shenandoah County,Passage Creek,A,"Rainbow Trout, Brown Trout"
+2026-01-14,Warren County,Passage Creek,DH,"Rainbow Trout, Brown Trout"
+2026-01-14,Bath County,Back Creek,DH,Brown Trout
+2026-01-14,Bath County,Jackson River Special Reg *,,Brown Trout
+2026-01-13,Botetourt County,Jennings Creek,A,"Rainbow Trout, Brook Trout"
+2026-01-13,Botetourt County,North Creek,B,"Rainbow Trout, Brook Trout"
+2026-01-13,Rockingham County,South River (Grottoes),A,"Rainbow Trout, Brown Trout"
+2026-01-13,Augusta County,South River (Ridgeview Park),A,"Rainbow Trout, Brown Trout"
+2026-01-13,Buchanan County,Dismal River,A,Rainbow Trout
+2026-01-13,Botetourt County,Middle Creek,B,Rainbow Trout
+2026-01-13,Botetourt County,McFalls Creek,C,Rainbow Trout
+2026-01-12,Prince William County,Locust Shade Park,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-01-12,Albemarle County,Mint Springs Lake (Upper),A,"Rainbow Trout, Brook Trout, Tiger Trout"
+2026-01-12,Albemarle County,Sugar Hollow Reservoir,A,"Rainbow Trout, Brook Trout"
+2026-01-12,Smyth County,South Fork Holston River (Lower),A,Rainbow Trout
+2026-01-09,Montgomery County,Craig Creek,B,Rainbow Trout
+2026-01-09,Washington County,Tennessee Laurel,A,Rainbow Trout
+2026-01-09,Shenandoah County,Stony Creek,A,"Rainbow Trout, Brown Trout"
+2026-01-09,Rockbridge County,Mill Creek,A,"Rainbow Trout, Brown Trout"
+2026-01-09,Nelson County,Tye River,A,"Rainbow Trout, Brown Trout, Brook Trout, Tiger Trout"
+2026-01-09,Floyd County,Burkes Fork,A,Rainbow Trout
+2026-01-09,Floyd County,Little River,A,Rainbow Trout
+2026-01-09,Bland County,Wolf Creek,A,Rainbow Trout
+2026-01-09,Giles County,Wolf Creek,A,Rainbow Trout
+2026-01-08,Augusta County,Elkhorn Lake,A,Rainbow Trout
+2026-01-07,Roanoke County,Glade Creek,A,"Rainbow Trout, Brook Trout"
+2026-01-07,Roanoke County,Roanoke River (City),A,"Rainbow Trout, Brook Trout"
+2026-01-07,Frederick County,Winchester Lake (Wilkins Lake),A,Rainbow Trout
+2026-01-07,Frederick County,Clearbrook Lake,A,Rainbow Trout
+2026-01-07,Frederick County,Paddy Run,B,Rainbow Trout
+2026-01-07,City of Staunton,Lake Tams,B,Rainbow Trout
+2026-01-07,Augusta County,Back Creek,B,Rainbow Trout
+2026-01-07,Wythe County,Cripple Creek (Ravens),A,Rainbow Trout
+2026-01-06,Lee County,Martins Creek,A,Rainbow Trout
+2026-01-06,Lee County,North Fork Powell River,A,Rainbow Trout
+2026-01-06,Bath County,Jackson River (Hidden Valley),A,Brown Trout
+2026-01-06,Bath County,Cowpasture River,A,Brown Trout
+2026-01-06,Bath County,Wilson Creek (Only),+,Brown Trout
+2026-01-05,Henry County,Smith River (Lower),A,Rainbow Trout
+2026-01-05,City of Richmond,Shields Lake,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-01-05,Henrico County,Dorey Park Lake,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-01-05,Amherst County,Pedlar River (Lower),A,"Rainbow Trout, Brown Trout, Tiger Trout"
+2026-01-02,Augusta County,North River (Natural Chimneys),B,Brown Trout
+2026-01-01,Statewide,No Stockings Today,,
+2025-12-31,Page County,Hawksbill Creek,A,Rainbow Trout
+2025-12-30,Augusta County,North River (Gorge),B,Brown Trout
+2025-12-29,Giles County,Big Stoney Creek,A,Rainbow Trout
+2025-12-29,Smyth County,Staley Creek,A,Rainbow Trout
+2025-12-29,Smyth County,Middle Fork Holston River (Upper),B,Rainbow Trout
+2025-12-24,Statewide,No Stockings Today,,
+2025-12-23,Bath County,Bullpasture River,A,Brown Trout
+2025-12-23,Highland County,Bullpasture River,A,Brown Trout
+2025-12-23,Montgomery County,Craig Creek,B,"Rainbow Trout, Brook Trout"
+2025-12-22,Bedford County,Liberty Lake,A,"Rainbow Trout, Tiger Trout"
+2025-12-22,Rockbridge County,Mill Creek,A,Brown Trout
+2025-12-22,Rockbridge County,Maury River,A,Brown Trout
+2025-12-19,Craig County,Potts Creek,A,"Rainbow Trout, Tiger Trout"
+2025-12-19,Shenandoah County,Passage Creek,A,Brown Trout
+2025-12-19,Smyth County,Middle Fork Holston River (Marion),A,Rainbow Trout
+2025-12-19,Smyth County,Middle Fork Holston River (Chilhowie),A,Rainbow Trout
+2025-12-19,Amherst County,Rocky Row Run,C,Rainbow Trout
+2025-12-18,Highland County,South Branch Potomac River,B,Rainbow Trout
+2025-12-18,Albemarle County,Sugar Hollow Reservoir,A,"Rainbow Trout, Brook Trout"
+2025-12-18,Albemarle County,Mint Springs Lake (Upper),A,"Rainbow Trout, Brook Trout"
+2025-12-17,Henry County,Smith River (Lower),A,"Rainbow Trout, Tiger Trout"
+2025-12-17,City of Alexandria,Cook Lake,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-12-17,City of Fredericksburg,Old Cossey Pond,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-12-16,Roanoke County,Tinker Creek,A,Rainbow Trout
+2025-12-16,Roanoke County,Glade Creek,A,Rainbow Trout
+2025-12-15,Augusta County,Lower Sherando Lake,A,Rainbow Trout
+2025-12-15,Augusta County,Upper Sherando Lake,B,Rainbow Trout
+2025-12-12,Washington County,Big Tumbling Creek,A,Rainbow Trout
+2025-12-12,Augusta County,South River (Ridgeview Park),A,Brown Trout
+2025-12-12,Rockingham County,South River (Grottoes),A,Brown Trout
+2025-12-11,Statewide,No Stockings Today,,
+2025-12-10,Tazewell County,Little Tumbling Creek,B,Rainbow Trout
+2025-12-10,Tazewell County,Lincolnshire Lake,A,Rainbow Trout
+2025-12-10,Roanoke County,Roanoke River (Salem),A,"Rainbow Trout, Brook Trout"
+2025-12-09,Grayson County,Fox Creek,B,Rainbow Trout
+2025-12-09,Grayson County,Middle Fox Creek,B,Rainbow Trout
+2025-12-08,Prince William County,Locust Shade Park,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-12-08,City of Hampton,Armistead Pointe Park Pond,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-12-05,Statewide,No Stockings Today,,
+2025-12-04,Scott County,Bark Camp Lake,A,Rainbow Trout
+2025-12-04,City of Norton,Norton Reservoir (Upper),B,Rainbow Trout
+2025-12-04,Montgomery County,Pandapas Pond,A,Rainbow Trout
+2025-12-04,Patrick County,Ararat River,B,Rainbow Trout
+2025-12-04,Patrick County,Clarks Creek,B,Rainbow Trout
+2025-12-04,Patrick County,Rockcastle Creek,B,"Rainbow Trout, Brown Trout"
+2025-12-04,Bath County,Cowpasture River,A,Rainbow Trout
+2025-12-04,Bath County,Spring Run,CR,Rainbow Trout
+2025-12-04,Bath County,Wilson Creek (Only),+,Rainbow Trout
+2025-12-03,Shenandoah County,Stony Creek,A,Brown Trout
+2025-12-03,Nelson County,Tye River,A,"Rainbow Trout, Brown Trout, Brook Trout, Tiger Trout"
+2025-12-03,Giles County,Big Stoney Creek,A,Rainbow Trout
+2025-12-02,Statewide,No Stockings Today,,
+2025-12-01,City of Richmond,Shields Lake,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-12-01,Henrico County,Dorey Park Lake,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-12-01,City of Lynchburg,Ivy Creek Park Pond (Clemmons Lake),U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-12-01,Russell County,Big Cedar Creek,A,Rainbow Trout
+2025-12-01,Rockbridge County,Mill Creek,A,Rainbow Trout
+2025-11-26,Patrick County,Dan River (Below Powerhouse),A,"Rainbow Trout, Brown Trout"
+2025-11-25,Alleghany County,Clifton Forge Reservoir,A,Rainbow Trout
+2025-11-25,Bath County,Douthat Lake (Only),+,Rainbow Trout
+2025-11-25,Wythe County,Rural Retreat Lake Pond,A,Rainbow Trout
+2025-11-24,Bath County,Spring Run,CR,"Rainbow Trout, Brown Trout"
+2025-11-24,Augusta County,Upper Sherando Lake,B,Rainbow Trout
+2025-11-24,City of Hampton,Armistead Pointe Park Pond,U,"Rainbow Trout, Brown Trout"
+2025-11-24,Floyd County,Goose Creek,B,"Rainbow Trout, Tiger Trout"
+2025-11-24,Floyd County,Laurel Fork,B,Brown Trout
+2025-11-21,Tazewell County,Lake Witten,A,"Rainbow Trout, Brown Trout"
+2025-11-21,Wise County,Middle Fork Powell River (Appalachia),A,Rainbow Trout
+2025-11-21,Wise County,South Fork Powell River,A,Rainbow Trout
+2025-11-21,Rockingham County,Silver Lake,B,Brown Trout
+2025-11-20,Franklin County,Pigg River,A,Rainbow Trout
+2025-11-20,Franklin County,Runnett Bag Creek,B,Rainbow Trout
+2025-11-20,Pulaski County,Peak Creek-Below Gatewood Reservoir,B,Rainbow Trout
+2025-11-20,Bath County,Jackson River (Rt. 623),A,Brown Trout
+2025-11-20,Frederick County,Hogue Creek,B,Rainbow Trout
+2025-11-20,Warren County,Happy Creek,B,"Rainbow Trout, Brown Trout"
+2025-11-19,Bath County,Jackson River (Hidden Valley),A,Rainbow Trout
+2025-11-19,Bath County,Cowpasture River,A,Rainbow Trout
+2025-11-18,Henry County,Smith River (Dam),B,"Rainbow Trout, Tiger Trout"
+2025-11-18,Bland County,Lick Creek,B,Rainbow Trout
+2025-11-18,Grayson County,Big Wilson Creek,A,Rainbow Trout
+2025-11-18,Rockingham County,Briery Branch Lake,A,Rainbow Trout
+2025-11-18,Page County,Hawksbill Creek,A,Rainbow Trout
+2025-11-17,Craig County,Potts Creek,A,"Rainbow Trout, Tiger Trout"
+2025-11-17,Frederick County,Clearbrook Lake,A,Rainbow Trout
+2025-11-17,Frederick County,Winchester Lake (Wilkins Lake),A,Rainbow Trout
+2025-11-17,Rockingham County,Hone Quarry Lake,A,Rainbow Trout
+2025-11-14,Wythe County,Cripple Creek (Ravens),A,Rainbow Trout
+2025-11-14,Grayson County,Elk Creek,A,"Rainbow Trout, Brown Trout"
+2025-11-14,Grayson County,Hales Lake,A,"Rainbow Trout, Brown Trout"
+2025-11-14,Albemarle County,Scottsville Lake (Was Named: Mink Creek Reservoir),A,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-11-14,Rockingham County,North Fork Shenandoah River,B,Rainbow Trout
+2025-11-14,Augusta County,Elkhorn Lake,A,Rainbow Trout
+2025-11-13,Roanoke County,Roanoke River (City),A,Rainbow Trout
+2025-11-13,Albemarle County,Mint Springs Lake (Upper),A,"Rainbow Trout, Brown Trout, Brook Trout, Tiger Trout"
+2025-11-13,Washington County,Whitetop Laurel (Lower),A,Rainbow Trout
+2025-11-13,Washington County,Whitetop Laurel (Upper),A,Rainbow Trout
+2025-11-13,Washington County,Tennessee Laurel,A,Rainbow Trout
+2025-11-13,Smyth County,South Fork Holston River (Buller Dam),A,Rainbow Trout
+2025-11-13,Augusta County,Back Creek,B,Rainbow Trout
+2025-11-13,Augusta County,South River (Ridgeview Park),A,Rainbow Trout
+2025-11-13,Rockingham County,South River (Grottoes),A,Rainbow Trout
+2025-11-12,Carroll County,Crooked Creek,A,Rainbow Trout
+2025-11-12,Carroll County,Little Reed Island Creek,A,"Rainbow Trout, Brown Trout"
+2025-11-12,Shenandoah County,Passage Creek,A,Rainbow Trout
+2025-11-12,Highland County,South Branch Potomac River,B,Rainbow Trout
+2025-11-11,Statewide,No Stockings Today,,
+2025-11-10,Botetourt County,Roaring Run,B,Rainbow Trout
+2025-11-10,Bedford County,Liberty Lake,A,Rainbow Trout
+2025-11-10,City of Fredericksburg,Old Cossey Pond,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-11-10,City of Alexandria,Cook Lake,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-11-10,Prince William County,Locust Shade Park,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-11-10,Buchanan County,Dismal River,A,Rainbow Trout
+2025-11-10,Augusta County,Lower Sherando Lake,A,Rainbow Trout
+2025-11-10,Augusta County,Upper Sherando Lake,B,Rainbow Trout
+2025-11-10,Wythe County,Cripple Creek (Rt. 94),A,Rainbow Trout
+2025-11-07,Smyth County,South Fork Holston River (Lower),A,Rainbow Trout
+2025-11-07,Floyd County,Burkes Fork,A,"Rainbow Trout, Brown Trout"
+2025-11-07,Floyd County,Little River,A,Rainbow Trout
+2025-11-07,Grayson County,Helton Creek,B,Rainbow Trout
+2025-11-07,Nelson County,Tye River,A,"Rainbow Trout, Brown Trout, Brook Trout, Tiger Trout"
+2025-11-07,Botetourt County,Jennings Creek,A,"Rainbow Trout, Brook Trout"
+2025-11-07,Botetourt County,North Creek,B,"Rainbow Trout, Brook Trout"
+2025-11-07,Bath County,Bullpasture River,A,Rainbow Trout
+2025-11-07,Highland County,Bullpasture River,A,Rainbow Trout
+2025-11-07,City of Staunton,Lake Tams,B,Rainbow Trout
+2025-11-06,Montgomery County,Pandapas Pond,A,Rainbow Trout
+2025-11-06,Wythe County,Wytheville Community College Pond,B,Rainbow Trout
+2025-11-06,Amherst County,Pedlar River (Lower),A,"Rainbow Trout, Brown Trout, Brook Trout, Tiger Trout"
+2025-11-06,Shenandoah County,Stony Creek,A,"Rainbow Trout, Brown Trout"
+2025-11-06,Bath County,Jackson River Special Reg *,,Brown Trout
+2025-11-05,Bland County,Wolf Creek,A,Rainbow Trout
+2025-11-05,Giles County,Wolf Creek,A,Rainbow Trout
+2025-11-05,Lee County,North Fork Powell River,A,Rainbow Trout
+2025-11-05,Lee County,Martins Creek,A,Rainbow Trout
+2025-11-05,Rockbridge County,Maury River,A,Rainbow Trout
+2025-11-04,Statewide,No Stockings Today,,
+2025-11-03,City of Richmond,Shields Lake,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-11-03,Henrico County,Dorey Park Lake,U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-11-03,City of Lynchburg,Ivy Creek Park Pond (Clemmons Lake),U,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-11-03,Appomattox County,Holliday Creek,DH,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-11-03,Shenandoah County,Tomahawk Pond,B,Rainbow Trout
+2025-11-03,Shenandoah County,Mill Creek,B,Rainbow Trout
+2025-11-03,Pulaski County,Peak Creek-Town of Pulaski,B,Rainbow Trout
+2025-10-31,Carroll County,Lovills Creek,C,Rainbow Trout
+2025-10-31,Giles County,Big Stoney Creek,A,Rainbow Trout
+2025-10-31,Rockbridge County,South River,B,Rainbow Trout
+2025-10-31,Craig County,Potts Creek,A,Rainbow Trout
+2025-10-31,Smyth County,Comers Creek,C,Rainbow Trout
+2025-10-31,Smyth County,Cressy Creek,C,Rainbow Trout
+2025-10-31,Smyth County,Dickey Creek,C,Rainbow Trout
+2025-10-31,Smyth County,Hurricane Creek,C,Rainbow Trout
+2025-10-30,Rockbridge County,Irish Creek,B,Rainbow Trout
+2025-10-29,Wythe County,Wytheville Community College Pond,B,Rainbow Trout
+2025-10-28,Patrick County,Rockcastle Creek,B,"Rainbow Trout, Brown Trout"
+2025-10-28,Frederick County,Winchester Lake (Wilkins Lake),A,Rainbow Trout
+2025-10-28,Frederick County,Clearbrook Lake,A,Rainbow Trout
+2025-10-28,Scott County,Bark Camp Lake,A,Rainbow Trout
+2025-10-28,Wise County,Bear Creek Reservoir (Wise Res.),B,Rainbow Trout
+2025-10-27,Bath County,Douthat Lake & Wilson Creek,+,Rainbow Trout
+2025-10-27,Buchanan County,Russell Fork River,C,Rainbow Trout
+2025-10-27,Dickenson County,Frying Pan Creek,C,Rainbow Trout
+2025-10-24,Bland County,Lick Creek,B,Rainbow Trout
+2025-10-24,Scott County,Big Stony Creek,B,Rainbow Trout
+2025-10-24,Scott County,Little Stony Creek,B,Rainbow Trout
+2025-10-23,Washington County,Valley Creek,C,Rainbow Trout
+2025-10-23,Washington County,Straight Branch,C,Rainbow Trout
+2025-10-22,Patrick County,South Mayo River (North Fork),C,"Rainbow Trout, Brown Trout"
+2025-10-22,Patrick County,South Mayo River (South Fork),C,"Rainbow Trout, Brown Trout"
+2025-10-22,City of Norton,Norton Reservoir (Upper),B,Rainbow Trout
+2025-10-22,Wise County,Clear Creek,C,Rainbow Trout
+2025-10-21,Pulaski County,Peak Creek-Below Gatewood Reservoir,B,Rainbow Trout
+2025-10-21,Rockingham County,Briery Branch Lake,A,"Rainbow Trout, Tiger Trout"
+2025-10-21,Rockingham County,Hone Quarry Lake,A,"Rainbow Trout, Tiger Trout"
+2025-10-21,Bath County,Douthat Lake & Wilson Creek,+,"Brown Trout, Tiger Trout"
+2025-10-21,Tazewell County,Lincolnshire Lake,A,Rainbow Trout
+2025-10-21,Tazewell County,Little Tumbling Creek,B,Rainbow Trout
+2025-10-21,Smyth County,Staley Creek,A,Rainbow Trout
+2025-10-21,Smyth County,Middle Fork Holston River (Upper),B,Rainbow Trout
+2025-10-20,Roanoke County,Roanoke River (Salem),A,Rainbow Trout
+2025-10-20,Augusta County,Elkhorn Lake,A,"Rainbow Trout, Tiger Trout"
+2025-10-20,Grayson County,Fox Creek,B,Rainbow Trout
+2025-10-20,Grayson County,Middle Fox Creek,B,Rainbow Trout
+2025-10-17,Roanoke County,Roanoke River (Green Hill Park),DH,"Rainbow Trout, Brook Trout"
+2025-10-17,Roanoke County,Roanoke River (Salem),DH,"Rainbow Trout, Brook Trout"
+2025-10-17,Bath County,Jackson River (Hidden Valley),A,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-10-17,Patrick County,Ararat River,B,Rainbow Trout
+2025-10-17,Patrick County,Clarks Creek,B,Rainbow Trout
+2025-10-17,Smyth County,Middle Fork Holston River (Marion),A,Rainbow Trout
+2025-10-17,Smyth County,Middle Fork Holston River (Chilhowie),A,Rainbow Trout
+2025-10-16,Bath County,Douthat Lake & Wilson Creek,+,Rainbow Trout
+2025-10-16,Bland County,Laurel Fork Creek,C,Rainbow Trout
+2025-10-16,Dickenson County,Russell Fork River (Bartlick),A,Rainbow Trout
+2025-10-16,Dickenson County,Russell Fork River (Haysi),B,Rainbow Trout
+2025-10-16,Dickenson County,Pound River (Flannagan Dam),A,Rainbow Trout
+2025-10-15,Roanoke County,Tinker Creek,A,Rainbow Trout
+2025-10-15,Roanoke County,Roanoke River (City),A,Rainbow Trout
+2025-10-15,Augusta County,Lower Sherando Lake,A,Rainbow Trout
+2025-10-15,Washington County,Big Tumbling Creek,A,Rainbow Trout
+2025-10-15,Washington County,Big Brumley Creek,B,Rainbow Trout
+2025-10-15,Grayson County,Helton Creek,B,Rainbow Trout
+2025-10-15,Tazewell County,Lake Witten,A,"Rainbow Trout, Brown Trout"
+2025-10-14,Amherst County,Pedlar River (Upper),B,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-10-14,Alleghany County,Clifton Forge Reservoir,A,Rainbow Trout
+2025-10-14,Bath County,Douthat Lake & Wilson Creek,+,Rainbow Trout
+2025-10-14,Wise County,Middle Fork Powell River (Appalachia),A,Rainbow Trout
+2025-10-14,Wise County,South Fork Powell River,A,Rainbow Trout
+2025-10-14,Floyd County,Laurel Fork,B,Brown Trout
+2025-10-14,Wythe County,Rural Retreat Lake Pond,A,Rainbow Trout
+2025-10-11,Patrick County,Dan River (Below Powerhouse),A,"Rainbow Trout, Brown Trout"
+2025-10-10,Carroll County,Crooked Creek,A,Rainbow Trout
+2025-10-10,Carroll County,Little Reed Island Creek,A,"Rainbow Trout, Brown Trout"
+2025-10-10,Wythe County,Cripple Creek (Ravens),A,Rainbow Trout
+2025-10-10,Roanoke County,Glade Creek,A,"Rainbow Trout, Brook Trout"
+2025-10-10,Franklin County,Pigg River (stocked for youth event on 10/5),A,"Rainbow Trout, Brook Trout"
+2025-10-10,Rockbridge County,Maury River,A,"Rainbow Trout, Brown Trout"
+2025-10-10,Grayson County,Big Wilson Creek,A,Rainbow Trout
+2025-10-09,Smyth County,South Fork Holston River (Buller Dam),A,Rainbow Trout
+2025-10-09,Shenandoah County,Stony Creek,A,"Rainbow Trout, Brown Trout"
+2025-10-09,Bath County,Douthat Lake (Only),+,Rainbow Trout
+2025-10-09,Smyth County,South Fork Holston River (Lower),A,Brook Trout
+2025-10-08,Bath County,Jackson River (Rt. 623),A,"Rainbow Trout, Brown Trout"
+2025-10-08,Buchanan County,Dismal River,A,Brook Trout
+2025-10-08,Russell County,Big Cedar Creek,A,Brook Trout
+2025-10-07,Grayson County,Elk Creek,A,"Rainbow Trout, Brown Trout"
+2025-10-07,Grayson County,Hales Lake,A,"Rainbow Trout, Brown Trout"
+2025-10-07,Rockingham County,South River (Grottoes),A,"Rainbow Trout, Brown Trout"
+2025-10-07,Augusta County,South River (Ridgeview Park),A,"Rainbow Trout, Brown Trout"
+2025-10-07,Augusta County,South River (Catch and Release section),CR,"Rainbow Trout, Brown Trout"
+2025-10-07,Lee County,Martins Creek,A,Brook Trout
+2025-10-07,Lee County,Indian Creek,DH,Brook Trout
+2025-10-07,Washington County,Whitetop Laurel (Lower),A,Brook Trout
+2025-10-07,Washington County,Whitetop Laurel (Upper),A,Brook Trout
+2025-10-07,Washington County,Tennessee Laurel,A,Brook Trout
+2025-10-06,Albemarle County,Scottsville Lake (Was Named: Mink Creek Reservoir),A,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-10-06,Albemarle County,Mint Springs Lake (Upper),A,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-10-06,Albemarle County,Sugar Hollow Reservoir,A,Rainbow Trout
+2025-10-06,Bath County,Douthat Lake & Wilson Creek,+,Rainbow Trout
+2025-10-06,Bath County,Back Creek,A,"Rainbow Trout, Brown Trout"
+2025-10-06,Bath County,Back Creek,DH,"Rainbow Trout, Brown Trout"
+2025-10-04,Wythe County,Cripple Creek (Rt. 94),A,Rainbow Trout
+2025-10-03,Bland County,Wolf Creek,A,Rainbow Trout
+2025-10-03,Giles County,Wolf Creek,A,Rainbow Trout
+2025-10-03,Nelson County,Tye River,A,"Rainbow Trout, Brown Trout, Brook Trout, Tiger Trout"
+2025-10-03,Shenandoah County,Passage Creek,A,"Rainbow Trout, Brown Trout"
+2025-10-03,Warren County,Passage Creek,DH,"Rainbow Trout, Brown Trout"
+2025-10-03,Scott County,Big Moccasin Creek,DH,Rainbow Trout
+2025-10-03,Scott County,Stock Creek,B,"Rainbow Trout, Brook Trout"
+2025-10-03,Wise County,Middle Fork of Powell River,DH,"Rainbow Trout, Brook Trout"
+2025-10-02,Carroll County,Chestnut Creek,DH,Rainbow Trout
+2025-10-02,Bath County,Douthat Lake & Wilson Creek,+,Rainbow Trout
+2025-10-02,Bath County,Bullpasture River,A,"Rainbow Trout, Brown Trout"
+2025-10-02,Highland County,Bullpasture River,A,"Rainbow Trout, Brown Trout"
+2025-10-02,Wise County,Pound River / N. Fork Pound River,DH,Rainbow Trout
+2025-10-02,Dickenson County,Cranesnest River,B,Rainbow Trout
+2025-10-01,Floyd County,Burkes Fork,A,"Rainbow Trout, Brown Trout"
+2025-10-01,Floyd County,Little River,A,Rainbow Trout
+2025-10-01,Pulaski County,Peak Creek-Town of Pulaski,B,Rainbow Trout
+2025-10-01,Henry County,Smith River (Lower),A,Rainbow Trout
+2025-10-01,Amherst County,Piney River,DH,"Rainbow Trout, Brown Trout, Tiger Trout"
+2025-10-01,Bath County,Cowpasture River,A,Rainbow Trout
+2025-10-01,Bath County,Spring Run,CR,Rainbow Trout
+2025-10-01,Page County,Hawksbill Creek,A,Rainbow Trout
+2025-10-01,Lee County,North Fork Powell River,A,Rainbow Trout
+2025-10-01,Lee County,Hardy Creek,DH,Rainbow Trout
